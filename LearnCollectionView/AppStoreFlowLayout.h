@@ -1,5 +1,5 @@
 //
-//  FirstViewController.h
+//  AppStoreFlowLayout.h
 //  LearnCollectionView
 //
 //  Created by 印林泉 on 2017/7/21.
@@ -8,8 +8,6 @@
 
 #import <UIKit/UIKit.h>
 
-@interface FirstViewController : UIViewController
-
+@interface AppStoreFlowLayout : UICollectionViewFlowLayout
 
 @end
-

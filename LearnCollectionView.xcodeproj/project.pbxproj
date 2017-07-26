@@ -7,9 +7,23 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		978064741F28234600AE0ABC /* FourthController.m in Sources */ = {isa = PBXBuildFile; fileRef = 978064721F28234600AE0ABC /* FourthController.m */; };
+		97989F761F21920900F81EDD /* AppStoreController.m in Sources */ = {isa = PBXBuildFile; fileRef = 97989F751F21920900F81EDD /* AppStoreController.m */; };
+		97989F7F1F21F4CC00F81EDD /* AppStoreFlowLayout.m in Sources */ = {isa = PBXBuildFile; fileRef = 97989F7E1F21F4CC00F81EDD /* AppStoreFlowLayout.m */; };
+		97989F821F21FBCA00F81EDD /* AppStoreLayoutAttributes.m in Sources */ = {isa = PBXBuildFile; fileRef = 97989F811F21FBCA00F81EDD /* AppStoreLayoutAttributes.m */; };
+		97989F861F259B5800F81EDD /* FirstCell.m in Sources */ = {isa = PBXBuildFile; fileRef = 97989F841F259B5800F81EDD /* FirstCell.m */; };
+		97989F871F259B5800F81EDD /* FirstCell.xib in Resources */ = {isa = PBXBuildFile; fileRef = 97989F851F259B5800F81EDD /* FirstCell.xib */; };
+		97989F8F1F270C0D00F81EDD /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 97989F8E1F270C0D00F81EDD /* ViewController.m */; };
+		97989F931F272A7200F81EDD /* SecondCell.m in Sources */ = {isa = PBXBuildFile; fileRef = 97989F911F272A7200F81EDD /* SecondCell.m */; };
+		97989F941F272A7200F81EDD /* SecondCell.xib in Resources */ = {isa = PBXBuildFile; fileRef = 97989F921F272A7200F81EDD /* SecondCell.xib */; };
+		97989F971F27309B00F81EDD /* SecondController.m in Sources */ = {isa = PBXBuildFile; fileRef = 97989F961F27309B00F81EDD /* SecondController.m */; };
+		97989F9D1F27382D00F81EDD /* FirstController.m in Sources */ = {isa = PBXBuildFile; fileRef = 97989F9C1F27382D00F81EDD /* FirstController.m */; };
+		97989FA01F277B0400F81EDD /* ThirdController.m in Sources */ = {isa = PBXBuildFile; fileRef = 97989F9F1F277B0400F81EDD /* ThirdController.m */; };
+		97989FA41F277B3500F81EDD /* ThirdCell.m in Sources */ = {isa = PBXBuildFile; fileRef = 97989FA21F277B3500F81EDD /* ThirdCell.m */; };
+		97989FA51F277B3500F81EDD /* ThirdCell.xib in Resources */ = {isa = PBXBuildFile; fileRef = 97989FA31F277B3500F81EDD /* ThirdCell.xib */; };
+		97989FA91F277B5900F81EDD /* FourthCell.m in Sources */ = {isa = PBXBuildFile; fileRef = 97989FA71F277B5900F81EDD /* FourthCell.m */; };
+		97989FAA1F277B5900F81EDD /* FourthCell.xib in Resources */ = {isa = PBXBuildFile; fileRef = 97989FA81F277B5900F81EDD /* FourthCell.xib */; };
 		97EF702D1F2190740099AC93 /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 97EF702C1F2190740099AC93 /* AppDelegate.m */; };
-		97EF70301F2190740099AC93 /* FirstViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 97EF702F1F2190740099AC93 /* FirstViewController.m */; };
-		97EF70331F2190740099AC93 /* SecondViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 97EF70321F2190740099AC93 /* SecondViewController.m */; };
 		97EF70361F2190740099AC93 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 97EF70341F2190740099AC93 /* Main.storyboard */; };
 		97EF70381F2190740099AC93 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 97EF70371F2190740099AC93 /* Assets.xcassets */; };
 		97EF703B1F2190740099AC93 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 97EF70391F2190740099AC93 /* LaunchScreen.storyboard */; };
@@ -36,13 +50,37 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		978064711F28234600AE0ABC /* FourthController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = FourthController.h; sourceTree = "<group>"; };
+		978064721F28234600AE0ABC /* FourthController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = FourthController.m; sourceTree = "<group>"; };
+		97989F741F21920900F81EDD /* AppStoreController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppStoreController.h; sourceTree = "<group>"; };
+		97989F751F21920900F81EDD /* AppStoreController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = AppStoreController.m; sourceTree = "<group>"; };
+		97989F7D1F21F4CC00F81EDD /* AppStoreFlowLayout.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppStoreFlowLayout.h; sourceTree = "<group>"; };
+		97989F7E1F21F4CC00F81EDD /* AppStoreFlowLayout.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = AppStoreFlowLayout.m; sourceTree = "<group>"; };
+		97989F801F21FBCA00F81EDD /* AppStoreLayoutAttributes.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppStoreLayoutAttributes.h; sourceTree = "<group>"; };
+		97989F811F21FBCA00F81EDD /* AppStoreLayoutAttributes.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = AppStoreLayoutAttributes.m; sourceTree = "<group>"; };
+		97989F831F259B5800F81EDD /* FirstCell.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = FirstCell.h; sourceTree = "<group>"; };
+		97989F841F259B5800F81EDD /* FirstCell.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = FirstCell.m; sourceTree = "<group>"; };
+		97989F851F259B5800F81EDD /* FirstCell.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = FirstCell.xib; sourceTree = "<group>"; };
+		97989F8D1F270C0D00F81EDD /* ViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = ViewController.h; sourceTree = "<group>"; };
+		97989F8E1F270C0D00F81EDD /* ViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = ViewController.m; sourceTree = "<group>"; };
+		97989F901F272A7200F81EDD /* SecondCell.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = SecondCell.h; sourceTree = "<group>"; };
+		97989F911F272A7200F81EDD /* SecondCell.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = SecondCell.m; sourceTree = "<group>"; };
+		97989F921F272A7200F81EDD /* SecondCell.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = SecondCell.xib; sourceTree = "<group>"; };
+		97989F951F27309B00F81EDD /* SecondController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = SecondController.h; sourceTree = "<group>"; };
+		97989F961F27309B00F81EDD /* SecondController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = SecondController.m; sourceTree = "<group>"; };
+		97989F9B1F27382D00F81EDD /* FirstController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = FirstController.h; sourceTree = "<group>"; };
+		97989F9C1F27382D00F81EDD /* FirstController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = FirstController.m; sourceTree = "<group>"; };
+		97989F9E1F277B0400F81EDD /* ThirdController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = ThirdController.h; sourceTree = "<group>"; };
+		97989F9F1F277B0400F81EDD /* ThirdController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = ThirdController.m; sourceTree = "<group>"; };
+		97989FA11F277B3500F81EDD /* ThirdCell.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = ThirdCell.h; sourceTree = "<group>"; };
+		97989FA21F277B3500F81EDD /* ThirdCell.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = ThirdCell.m; sourceTree = "<group>"; };
+		97989FA31F277B3500F81EDD /* ThirdCell.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = ThirdCell.xib; sourceTree = "<group>"; };
+		97989FA61F277B5900F81EDD /* FourthCell.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = FourthCell.h; sourceTree = "<group>"; };
+		97989FA71F277B5900F81EDD /* FourthCell.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = FourthCell.m; sourceTree = "<group>"; };
+		97989FA81F277B5900F81EDD /* FourthCell.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = FourthCell.xib; sourceTree = "<group>"; };
 		97EF70281F2190740099AC93 /* LearnCollectionView.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = LearnCollectionView.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		97EF702B1F2190740099AC93 /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
 		97EF702C1F2190740099AC93 /* AppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = AppDelegate.m; sourceTree = "<group>"; };
-		97EF702E1F2190740099AC93 /* FirstViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = FirstViewController.h; sourceTree = "<group>"; };
-		97EF702F1F2190740099AC93 /* FirstViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = FirstViewController.m; sourceTree = "<group>"; };
-		97EF70311F2190740099AC93 /* SecondViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = SecondViewController.h; sourceTree = "<group>"; };
-		97EF70321F2190740099AC93 /* SecondViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = SecondViewController.m; sourceTree = "<group>"; };
 		97EF70351F2190740099AC93 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
 		97EF70371F2190740099AC93 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		97EF703A1F2190740099AC93 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
@@ -106,10 +144,34 @@
 			children = (
 				97EF702B1F2190740099AC93 /* AppDelegate.h */,
 				97EF702C1F2190740099AC93 /* AppDelegate.m */,
-				97EF702E1F2190740099AC93 /* FirstViewController.h */,
-				97EF702F1F2190740099AC93 /* FirstViewController.m */,
-				97EF70311F2190740099AC93 /* SecondViewController.h */,
-				97EF70321F2190740099AC93 /* SecondViewController.m */,
+				97989F8D1F270C0D00F81EDD /* ViewController.h */,
+				97989F8E1F270C0D00F81EDD /* ViewController.m */,
+				97989F741F21920900F81EDD /* AppStoreController.h */,
+				97989F751F21920900F81EDD /* AppStoreController.m */,
+				97989F9B1F27382D00F81EDD /* FirstController.h */,
+				97989F9C1F27382D00F81EDD /* FirstController.m */,
+				97989F951F27309B00F81EDD /* SecondController.h */,
+				97989F961F27309B00F81EDD /* SecondController.m */,
+				97989F9E1F277B0400F81EDD /* ThirdController.h */,
+				97989F9F1F277B0400F81EDD /* ThirdController.m */,
+				978064711F28234600AE0ABC /* FourthController.h */,
+				978064721F28234600AE0ABC /* FourthController.m */,
+				97989F831F259B5800F81EDD /* FirstCell.h */,
+				97989F841F259B5800F81EDD /* FirstCell.m */,
+				97989F851F259B5800F81EDD /* FirstCell.xib */,
+				97989F901F272A7200F81EDD /* SecondCell.h */,
+				97989F911F272A7200F81EDD /* SecondCell.m */,
+				97989F921F272A7200F81EDD /* SecondCell.xib */,
+				97989FA11F277B3500F81EDD /* ThirdCell.h */,
+				97989FA21F277B3500F81EDD /* ThirdCell.m */,
+				97989FA31F277B3500F81EDD /* ThirdCell.xib */,
+				97989FA61F277B5900F81EDD /* FourthCell.h */,
+				97989FA71F277B5900F81EDD /* FourthCell.m */,
+				97989FA81F277B5900F81EDD /* FourthCell.xib */,
+				97989F7D1F21F4CC00F81EDD /* AppStoreFlowLayout.h */,
+				97989F7E1F21F4CC00F81EDD /* AppStoreFlowLayout.m */,
+				97989F801F21FBCA00F81EDD /* AppStoreLayoutAttributes.h */,
+				97989F811F21FBCA00F81EDD /* AppStoreLayoutAttributes.m */,
 				97EF70341F2190740099AC93 /* Main.storyboard */,
 				97EF70371F2190740099AC93 /* Assets.xcassets */,
 				97EF70391F2190740099AC93 /* LaunchScreen.storyboard */,
@@ -240,8 +302,12 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				97989F941F272A7200F81EDD /* SecondCell.xib in Resources */,
 				97EF703B1F2190740099AC93 /* LaunchScreen.storyboard in Resources */,
 				97EF70381F2190740099AC93 /* Assets.xcassets in Resources */,
+				97989FAA1F277B5900F81EDD /* FourthCell.xib in Resources */,
+				97989FA51F277B3500F81EDD /* ThirdCell.xib in Resources */,
+				97989F871F259B5800F81EDD /* FirstCell.xib in Resources */,
 				97EF70361F2190740099AC93 /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -267,10 +333,20 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				97EF70331F2190740099AC93 /* SecondViewController.m in Sources */,
+				97989F9D1F27382D00F81EDD /* FirstController.m in Sources */,
+				97989FA41F277B3500F81EDD /* ThirdCell.m in Sources */,
+				97989F8F1F270C0D00F81EDD /* ViewController.m in Sources */,
+				97989F821F21FBCA00F81EDD /* AppStoreLayoutAttributes.m in Sources */,
+				97989FA01F277B0400F81EDD /* ThirdController.m in Sources */,
+				978064741F28234600AE0ABC /* FourthController.m in Sources */,
 				97EF702D1F2190740099AC93 /* AppDelegate.m in Sources */,
+				97989F971F27309B00F81EDD /* SecondController.m in Sources */,
+				97989F931F272A7200F81EDD /* SecondCell.m in Sources */,
+				97989FA91F277B5900F81EDD /* FourthCell.m in Sources */,
+				97989F861F259B5800F81EDD /* FirstCell.m in Sources */,
+				97989F761F21920900F81EDD /* AppStoreController.m in Sources */,
 				97EF703E1F2190740099AC93 /* main.m in Sources */,
-				97EF70301F2190740099AC93 /* FirstViewController.m in Sources */,
+				97989F7F1F21F4CC00F81EDD /* AppStoreFlowLayout.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -435,8 +511,9 @@
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				DEVELOPMENT_TEAM = 863952Q9B2;
 				INFOPLIST_FILE = LearnCollectionView/Info.plist;
+				IPHONEOS_DEPLOYMENT_TARGET = 10.3;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = com.slfinance.LearnCollectionView;
+				PRODUCT_BUNDLE_IDENTIFIER = com.ylq.Learn;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				TARGETED_DEVICE_FAMILY = "1,2";
 			};
@@ -448,8 +525,9 @@
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				DEVELOPMENT_TEAM = 863952Q9B2;
 				INFOPLIST_FILE = LearnCollectionView/Info.plist;
+				IPHONEOS_DEPLOYMENT_TARGET = 10.3;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = com.slfinance.LearnCollectionView;
+				PRODUCT_BUNDLE_IDENTIFIER = com.ylq.Learn;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				TARGETED_DEVICE_FAMILY = "1,2";
 			};
@@ -528,6 +606,7 @@
 				97EF70591F2190740099AC93 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		97EF705A1F2190740099AC93 /* Build configuration list for PBXNativeTarget "LearnCollectionViewTests" */ = {
 			isa = XCConfigurationList;
@@ -536,6 +615,7 @@
 				97EF705C1F2190740099AC93 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		97EF705D1F2190740099AC93 /* Build configuration list for PBXNativeTarget "LearnCollectionViewUITests" */ = {
 			isa = XCConfigurationList;
@@ -544,6 +624,7 @@
 				97EF705F1F2190740099AC93 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
