@@ -2,8 +2,8 @@
 UICollectionView布局实现新生大学App首页
 
 ![效果图](./gif.gif)
-![second效果图](./gif2.gif)
 ![third效果图](./gif3.gif)
+![second效果图](./gif2.gif)
 ![fourth效果图](./gif4.gif)
 
 
